@@ -5,7 +5,16 @@
      MAVEN
      IDE - Eclipse
     
-  
+ ## Note
+    1.Import as existing maven project
+    2.Java build path->java 1.8
+    3.Maven clean
+    4.Maven install
+    5.Run->Java application
+    
+  #### DATABASE CONNECTION
+      Port = 8081
+      DB name = server
     
   #### POST
   
